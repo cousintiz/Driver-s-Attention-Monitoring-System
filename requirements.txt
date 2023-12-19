@@ -1,0 +1,5 @@
+ultralytics
+supervision
+opencv-python
+numpy 
+deepface
