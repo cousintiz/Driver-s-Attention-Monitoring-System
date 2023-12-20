@@ -8,10 +8,10 @@ PiezoBuzzer;
 * ESP32 microcontroller;
 * Camera;
 * Computer.
-![alt tag](img1.png)
+![alt tag](img1.jpg)
 ## Software:
 The `trigger()` function is a function developed to make a quick analysis of the driver's condition to look for signs of drowsiness and inattention before in-depth analysis, and is intended to be composed of two models, which have good generalization capacity. The `analyze()` function is a more robust function that is only executed if the trigger function is activated, this function analyzes with more time and more models (3) `deepface`, `eyes.pt` and `head.pt`, which analyze the driver's condition.
-![alt tag](img2.png)
+![alt tag](img2.jpg)
 ## To run the project, follow the steps below:
 
 #### 1- Create a virtual environment for the project's dependencies:
